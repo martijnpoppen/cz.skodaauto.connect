@@ -1,1 +1,1 @@
-# cz.skodaauto.connect
+cz.skodaauto.connect
