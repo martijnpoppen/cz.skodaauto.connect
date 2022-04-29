@@ -1,5 +1,5 @@
 {
-  "id": "com.seat.connectedcar",
+  "id": "cz.skodaauto.connect",
   "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
