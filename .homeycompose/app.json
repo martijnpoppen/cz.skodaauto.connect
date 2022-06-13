@@ -1,19 +1,19 @@
 {
-    "id": "cz.skodaauto.connect",
-    "version": "1.7.0",
-    "compatibility": ">=5.0.0",
-    "sdk": 3,
-    "platforms": [
-      "local"
-    ],
-    "brandColor": "#509031",
-    "name": {
-      "en": "MyŠKODA",
-      "nl": "MyŠKODA"
-    },
-    "description": {
-      "en": "Always connected with your ŠKODA",
-      "nl": "Altijd verbonden met jouw ŠKODA"
+  "id": "cz.skodaauto.connect",
+  "version": "1.7.1",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "brandColor": "#509031",
+  "name": {
+    "en": "MyŠKODA",
+    "nl": "MyŠKODA"
+  },
+  "description": {
+    "en": "Always connected with your ŠKODA",
+    "nl": "Altijd verbonden met jouw ŠKODA"
   },
   "tags": {
     "en": [
