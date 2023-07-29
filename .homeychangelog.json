@@ -367,5 +367,8 @@
   },
   "1.18.2": {
     "en": "FIX: api update"
+  },
+  "1.18.3": {
+    "en": "FIX: login token"
   }
 }
