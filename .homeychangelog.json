@@ -397,5 +397,8 @@
   },
   "1.20.4": {
     "en": "FIX: skoda data update"
+  },
+  "1.20.5": {
+    "en": "NEW: add odometer to Enyaq"
   }
 }
