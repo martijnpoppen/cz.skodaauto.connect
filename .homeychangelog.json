@@ -448,5 +448,8 @@
   },
   "1.25.2": {
     "en": "FIX: API crashes due to parkingposition timeout from Skoda. "
+  },
+  "1.25.3": {
+    "en": "FIX: Skoda API change"
   }
 }
