@@ -451,5 +451,8 @@
   },
   "1.25.3": {
     "en": "FIX: Skoda API change"
+  },
+  "1.25.4": {
+    "en": "FIX: update library"
   }
 }
