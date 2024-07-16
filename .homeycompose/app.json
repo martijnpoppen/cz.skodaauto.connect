@@ -1,6 +1,6 @@
 {
   "id": "cz.skodaauto.connect",
-  "version": "1.25.5",
+  "version": "1.25.6",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
